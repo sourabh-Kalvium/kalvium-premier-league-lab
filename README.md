@@ -40,7 +40,7 @@ Ohh yes! We have our beloved tests, and you already know how this works. Open th
 
 Every team starts off with a manager. We need someone to take care of them when Alex isn't around. Create a function `createManager()` that gets the manager's details `managerName, managerAge, currentTeam, trophiesWon` in the same order, and _return an array_ with the manager's details.
 
-### Progression 2: Plan of Action
+### Progression 2: Plan of Action 
 
 The coach has prepared a plan of action for the team. He has the formation ready and will provide us with an array `[defender, midfield, forward]`. He will give us the numbers, and we'll need to print that layout on our screen so that we know who to pick (for instance, how many midfielders do we need?). Create a function `createFormation()` that _returns an object_ with the data and keys in the order given in the array.
 
